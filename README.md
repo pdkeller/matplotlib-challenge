@@ -1,1 +1,3 @@
 # matplotlib-challenge
+# Author: Paul Keller
+# This assignment is being submitted late, but overall the assignment has been completed to the best of my ability. I did receive some help from Lucas from the tutoring center. The code runs efficiently, but then I had trouble using an abbreviated path like my last submission, so I wrote the full path on my local machine. Otherwise, the code should run. Sorry for the delay.
